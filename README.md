@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdtjddjq123&langs_count=10&layout=compact&theme=dark)](https://github.com/wjdtjddjq123/wjdtjddjq123)﻿
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?wjdtjddjq=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?wjdtjddjq=anuraghazra&show_icons=true&bg_color=00000000)
+
 
 <h1 color="white" >  My SKILLS 
  <div align="left" >
