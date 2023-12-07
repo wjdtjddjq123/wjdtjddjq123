@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdtjddjq123&langs_count=10&layout=compact&theme=dark)](https://github.com/wjdtjddjq123/wjdtjddjq123)﻿
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?wjdtjddjq123=anuraghazra&show_icons=true&theme=transparent)
 
 <h1 color="white" >  My SKILLS 
  <div align="left" >
@@ -29,6 +29,7 @@
  <img src="https://img.shields.io/badge/raspberrypi-ffffff?style=flat-square&logo=raspberrypi&logoColor=black" alihg"left"/>  
  <img src="https://img.shields.io/badge/arduino-ffffff?style=flat-square&logo=arduino&logoColor=black" alihg"left"/>  
  <img src="https://img.shields.io/badge/slack-ffffff?style=flat-square&logo=slack&logoColor=black" alihg"left"/>  
+ 
    
   
  </div>
