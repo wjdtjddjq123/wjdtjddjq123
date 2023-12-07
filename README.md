@@ -2,7 +2,6 @@
 ### https://github.com/wjdtjddjq123/hit-counter
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdtjddjq123&langs_count=10&layout=compact&theme=dark)](https://github.com/wjdtjddjq123/wjdtjddjq123)﻿
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdtjddjq)](https://solved.ac/wjdtjddjq/)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjdtjddjq)](https://solved.ac/{wjdtjddjq})
 
 <h1 color="white" >  My SKILLS 
  <div align="left" >
